@@ -13,6 +13,8 @@ public class Main {
         if(!ok){
             System.out.println(" Не хватает денег!");
         }
+
+        MyDate.mainn();
     }
 }
 
