@@ -1,7 +1,7 @@
-public class Cofee {
+public class Drink {
     String name;
     int sum;
-    public Cofee(String name,int sum){
+    public Drink(String name, int sum){
         this.name=name;
         this.sum=sum;
     }
